@@ -1,0 +1,2 @@
+Nếu không cài FFmpeg qua PATH, đặt ffmpeg.exe và ffprobe.exe trong thư mục này.
+Không đính kèm nhị phân FFmpeg trong gói mã nguồn.
